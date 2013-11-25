@@ -3,7 +3,7 @@ goaws
 
 An easy tool in GO to list and connect to Amazon instances
 
-It requires trulioo/conf which prases a configuration file in YAML
+It requires trulioo/conf which parses a configuration file in YAML
 
 _Usage_
 
